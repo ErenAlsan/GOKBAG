@@ -1,0 +1,8 @@
+djitellopy==1.5
+opencv-python==4.5.2.52
+numpy==1.19.5
+Pillow==8.2.0
+customtkinter==4.3.2
+torch==1.7.1
+torchvision==0.8.2
+ultralytics==0.0.2
